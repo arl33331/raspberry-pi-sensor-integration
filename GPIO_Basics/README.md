@@ -1,4 +1,3 @@
-
 # GPIO Basics – Raspberry Pi 4
 
 This directory contains four introductory GPIO programs written in C using the libgpiod library.
